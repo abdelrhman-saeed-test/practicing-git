@@ -1,0 +1,16 @@
+{
+    "name": "abdelrhman-saeed-test/practice-git",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AbdelrhmanSaeedTest\\PracticeGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdelrhman-saeed",
+            "email": "abdelrhmansaeed001@gmail.com"
+        }
+    ],
+    "require": {}
+}
